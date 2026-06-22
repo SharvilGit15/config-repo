@@ -1,5 +1,5 @@
 gobal:
-welcome to Global Mircoservices Enviroment
+   welcome to Global Mircoservices Enviroment
 logging:
   level:
     root: INFO
