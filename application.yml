@@ -1,0 +1,12 @@
+gobal:
+welcome to Global Mircoservices Enviroment
+logging:
+  level:
+    root: INFO
+managemnet:
+  endpoints:
+    exposure:
+      include: health, info, refresh
+    endpoints:
+      health:
+        show-details: always
